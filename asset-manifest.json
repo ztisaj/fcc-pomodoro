@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fcc-pomodoro/static/css/main.c01866dd.chunk.css",
+    "main.js": "/fcc-pomodoro/static/js/main.020e5ea2.chunk.js",
+    "main.js.map": "/fcc-pomodoro/static/js/main.020e5ea2.chunk.js.map",
+    "runtime-main.js": "/fcc-pomodoro/static/js/runtime-main.fa93c888.js",
+    "runtime-main.js.map": "/fcc-pomodoro/static/js/runtime-main.fa93c888.js.map",
+    "static/js/2.26fe28fc.chunk.js": "/fcc-pomodoro/static/js/2.26fe28fc.chunk.js",
+    "static/js/2.26fe28fc.chunk.js.map": "/fcc-pomodoro/static/js/2.26fe28fc.chunk.js.map",
+    "index.html": "/fcc-pomodoro/index.html",
+    "static/css/main.c01866dd.chunk.css.map": "/fcc-pomodoro/static/css/main.c01866dd.chunk.css.map",
+    "static/js/2.26fe28fc.chunk.js.LICENSE.txt": "/fcc-pomodoro/static/js/2.26fe28fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa93c888.js",
+    "static/js/2.26fe28fc.chunk.js",
+    "static/css/main.c01866dd.chunk.css",
+    "static/js/main.020e5ea2.chunk.js"
+  ]
+}
